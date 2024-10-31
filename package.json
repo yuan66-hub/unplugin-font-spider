@@ -4,14 +4,18 @@
   "version": "0.1.0",
   "packageManager": "pnpm@9.9.0",
   "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "yuanjianming",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/unplugin-starter#readme",
+  "homepage": "https://github.com/yuan66-hub/unplugin-font-spider#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/unplugin-starter.git"
+    "url": "git+https://github.com/yuan66-hub/unplugin-font-spider"
   },
   "bugs": {
-    "url": "https://github.com/antfu/unplugin-starter/issues"
+    "url": "https://github.com/yuan66-hub/unplugin-font-spider/issues"
   },
   "keywords": [
     "unplugin",
